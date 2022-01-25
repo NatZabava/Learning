@@ -1,7 +1,7 @@
 # Business Analytics
  Analytics and Visualization Practice
  
- <img src="https://github.com/NatZabava/Learning/commit/9f2f6df89e79a7f2e06dddd150478e2523d105f1" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Learning/blob/Learning/Coursera%207JHLD3GJ3FCU_page-0001.jpg?raw=true" alt="drawing" width="1000"/>
 
 
 ## Introduction
