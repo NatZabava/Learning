@@ -36,14 +36,13 @@ After completing this course:
 4) The ability to identify and solve the most common problems that arise when implementing Agile methods.
 
  <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Agile%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
-## Data overview
-All data is stored in the [Datasets folder]( https://github.com/Kochurovskyi/Business_Analytics/tree/main/Datasets) including input datasets and resulting tables.
-There is two main files for my research and marketing campaign planning:
 
-•	known_behaviors
+## Lean Software Development
+While scrum and XP were transforming the software development industry, there were another set of ideas (derived from lean manufacturing and Six Sigma) that started to influence software development methods. 
+These ideas around Lean Software Development forms the foundation of number of agile methods. 
 
-•	unknown_behaviors
+In this course, I covered the concepts of lean manufacturing and will cover some common lean methods and techniques such as kanban, value stream mapping, etc.
+In this course, we also explored Lean Startup and Design Thinking techniques that can help a team learn about user and market needs much faster and cheaper.
 
-
-
+ <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Lean%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
 
