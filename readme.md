@@ -1,10 +1,13 @@
-# Business Analytics
- Analytics and Visualization Practice
+# Software Development Lifecycle
+Critically analyze software engineering development processes from our four selected development philosophies (traditional, secure, agile, and lean)
+Discuss the workings of exemplary processes within each of the given philosophies.
+Describe the trade-offs among the philosophies with respect to environmental, organizational, and product constraints.
+Perform activities within each of the four aforementioned philosophies and explain how they satisfy the principles of the given philosophy
  
  <img src="https://github.com/NatZabava/Learning/blob/Learning/Screenshot_1.png" alt="drawing" width="1000"/>
 
 
-## Introduction
+## Software Development Processes and Methodologies
 Business Analytics and Business Intelligent are one of the fastest growing sectors in Data Science and this project is my result to dive deeply into the practical problems from the real world using my ML and Visualization skills for a business purposes.   
  
 The project contains some [graphics materials]( https://github.com/Kochurovskyi/Business_Analytics/tree/main/Tableau) of data exploratory, descriptive and prescriptive analysis. For an easy access this folder also contains another readme-file with all links to a relevant files on my [Tableau Public Profile]( https://public.tableau.com/profile/yukochu#!/).
