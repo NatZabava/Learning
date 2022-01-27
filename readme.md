@@ -4,7 +4,7 @@ Discuss the workings of exemplary processes within each of the given philosophie
 Describe the trade-offs among the philosophies with respect to environmental, organizational, and product constraints.
 Perform activities within each of the four aforementioned philosophies and explain how they satisfy the principles of the given philosophy
  
-	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Screenshot_1.png?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Screenshot_1.png?raw=true" alt="drawing" width="1000"/>
 
 
 ## Software Development Processes and Methodologies
