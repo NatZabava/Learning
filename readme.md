@@ -24,7 +24,7 @@ After completing this course, a learner will be able to
 In this course, I learned about the engineering methods and processes that agile and traditional teams use to make sure the team is ready for change. In addition, I also learned about practices, methods and processes that 
 can help a team create high quality software. How to calculate various quantitative indicators related to software quality.
 
-	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
 
 
 ## Content
