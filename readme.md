@@ -27,16 +27,15 @@ can help a team create high quality software. How to calculate various quantitat
  <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
 
 
-## Content
+## Agile Software Development
 
-1.	[Data overview](#Data-overview)
-2.	[Exploratory Analysis](#Exploratory-Analysis)
-3.	[Predictive model](#Predictive-model)
-4.	[Proscriptive model](#Proscriptive-model)
-5.	[Clusterization model](#Clusterization-model)
-6.	[Conclusions](#Conclusions)
-6. 	[Coursera details and certificates](#Coursera-details-and-certificates)
+After completing this course:
+1) Demonstrate the ability to effectively participate in agile software development practices/processes.
+2) Explain the purpose of the general flexibilities.
+3) The ability to apply flexible principles and values ​​to a given situation.
+4) The ability to identify and solve the most common problems that arise when implementing Agile methods.
 
+ <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Agile%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
 ## Data overview
 All data is stored in the [Datasets folder]( https://github.com/Kochurovskyi/Business_Analytics/tree/main/Datasets) including input datasets and resulting tables.
 There is two main files for my research and marketing campaign planning:
