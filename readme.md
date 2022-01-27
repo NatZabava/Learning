@@ -4,7 +4,7 @@ Discuss the workings of exemplary processes within each of the given philosophie
 Describe the trade-offs among the philosophies with respect to environmental, organizational, and product constraints.
 Perform activities within each of the four aforementioned philosophies and explain how they satisfy the principles of the given philosophy
  
- <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Screenshot_1.png?raw=true" alt="drawing" width="1000"/>
+	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Screenshot_1.png?raw=true" alt="drawing" width="1000"/>
 
 
 ## Software Development Processes and Methodologies
@@ -16,31 +16,19 @@ After completing this course, a learner will be able to
 1) Apply core software engineering practices at conceptual level for a given problem. 
 2) Compare and contrast traditional, agile, and lean development methodologies at high level.  These include Waterfall, Rational Unified Process, V model, Incremental, Spiral models and overview of agile mindset 
 3) Propose a methodology best suited for a given situation
-## Marketing campaign strategy. Promoting financial products to bank customers
+	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Coursera%20Software%20Development%20Processes%20and%20Methodologies.jpg?raw=true" alt="drawing" width="1000"/>
 
-<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Coursera%20Software%20Development%20Processes%20and%20Methodologies.jpg?raw=true" alt="drawing" width="1000"/>
 
-In previous 4 years, a retail bank sold several products (mortgage account, savings account, and pension account) to it's customers. It kept records of all historical data, and this data is available for analysis and reuse. Following a merger in 2021, the bank has new customers and wants to launch some marketing campaigns.
+## Engineering Practices for Building Quality Software
 
-Standard business process for Deposit opening in the bank is described very well in the BPNM diagram bellow:
+In this course, I learned about the engineering methods and processes that agile and traditional teams use to make sure the team is ready for change. In addition, I also learned about practices, methods and processes that 
+can help a team create high quality software. How to calculate various quantitative indicators related to software quality.
 
-<img src="https://github.com/Kochurovskyi/Business_Analytics/blob/main/Misc/1_BPNM.png" alt="drawing" width="1000"/>
+	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
 
-The budget for the campaigns is limited. The bank wants to contact a customer and propose only one product.
-
-The marketing department needs to decide:
-
-Who should be contacted?
-
-Which product should be proposed? (Proposing too many products is counter productive, so only one product per customer contact will be proposed).
-
-How will a customer be contacted? There are different ways, with different costs and efficiency.
-
-How can they optimally use their limited budget?
-
-Will such campaigns be profitable?
 
 ## Content
+
 1.	[Data overview](#Data-overview)
 2.	[Exploratory Analysis](#Exploratory-Analysis)
 3.	[Predictive model](#Predictive-model)
