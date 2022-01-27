@@ -1,4 +1,5 @@
 # Software Development Lifecycle
+## Coursera specialization contains 4 courses and takes arround 120 hours in total 
 Critically analyze software engineering development processes from our four selected development philosophies (traditional, secure, agile, and lean)
 Discuss the workings of exemplary processes within each of the given philosophies.
 Describe the trade-offs among the philosophies with respect to environmental, organizational, and product constraints.
